@@ -1,4 +1,4 @@
-Free Download Source Code "Pharmacy_Store_MANAGEMENT SYSTEM"
+"Pharmacy_Store_MANAGEMENT SYSTEM"
 
 FIRST Download
 
