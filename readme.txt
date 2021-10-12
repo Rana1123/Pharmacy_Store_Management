@@ -1,4 +1,4 @@
-Free Download Source Code "ONLINE FACULTY CLEARANCE MANAGEMENT SYSTEM"
+Free Download Source Code "Pharmacy_Store_MANAGEMENT SYSTEM"
 
 FIRST Download
 
@@ -28,6 +28,3 @@ FIRST Download
 Admin
 user: admin@gmail.com
 pass: admin
-
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
